@@ -1,2 +1,2 @@
-# 32-bit-floating-point-addition-circuit-  
+# 32-bit-floating-point-addition-circuit
 hw in NCKU  
